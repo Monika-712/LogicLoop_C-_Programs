@@ -1,0 +1,7 @@
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\bin\Debug\PatternA.exe.config
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\bin\Debug\PatternA.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\bin\Debug\PatternA.pdb
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\obj\Debug\PatternA.csprojAssemblyReference.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\obj\Debug\PatternA.csproj.CoreCompileInputs.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\obj\Debug\PatternA.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\PatternA\PatternA\obj\Debug\PatternA.pdb

@@ -1,0 +1,7 @@
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\bin\Debug\ChessEx.exe.config
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\bin\Debug\ChessEx.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\bin\Debug\ChessEx.pdb
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\obj\Debug\ChessEx.csprojAssemblyReference.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\obj\Debug\ChessEx.csproj.CoreCompileInputs.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\obj\Debug\ChessEx.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ChessEx\ChessEx\obj\Debug\ChessEx.pdb

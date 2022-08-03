@@ -1,0 +1,7 @@
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\bin\Debug\FactorialEx.exe.config
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\bin\Debug\FactorialEx.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\bin\Debug\FactorialEx.pdb
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\obj\Debug\FactorialEx.csprojAssemblyReference.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\obj\Debug\FactorialEx.csproj.CoreCompileInputs.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\obj\Debug\FactorialEx.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\FactorialEx\FactorialEx\obj\Debug\FactorialEx.pdb

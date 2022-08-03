@@ -1,0 +1,6 @@
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ReversePattern\ReversePattern\bin\Debug\ReversePattern.exe.config
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ReversePattern\ReversePattern\bin\Debug\ReversePattern.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ReversePattern\ReversePattern\bin\Debug\ReversePattern.pdb
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ReversePattern\ReversePattern\obj\Debug\ReversePattern_b.csproj.CoreCompileInputs.cache
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ReversePattern\ReversePattern\obj\Debug\ReversePattern.exe
+D:\Projects\MVC_Code\C#Examples\LogicLoopC#Task\ReversePattern\ReversePattern\obj\Debug\ReversePattern.pdb
